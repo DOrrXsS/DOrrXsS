@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DOrrXsS
 - 👀 I’m interested in python, web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React & React-native
 - 📫 Looking to be better
 
 <!---
